@@ -1,0 +1,49 @@
+{
+    "birth": [{
+			"Out in the wilderness": ["outside the confines of civilization", "outpost.jpg"],
+			"weight":3
+			},{
+			"A Rural Hamlet/Village": ["in an isolated village" , "town.jpg"],
+			"weight":3
+			},{
+			"Slave Pit": ["amongst slaves","slaves.jpg"],
+			"weight":1
+			},{
+			"Town": ["in a town located within a kingdom", "town.jpg"],
+			"weight":3
+			},{
+			"Religious or Scholarly Institution": ["in a monastery", "monestery.jpg"],
+			"weight":1
+			},{
+			"Fortress": ["in a structure built for military use", "fortress.jpg"],
+			"weight":1
+			},{
+			"Palace": ["in a place of residence of the royal family", "palace.jpg"],
+			"weight":1
+			},{
+			"Major metropolis, Capital City": ["in a sprawling conglomeration of residences and businesses", "city.jpg"],
+			"weight":3
+			},{
+			"Nomad": ["with travelling nomads","nomads.jpg"],
+			"weight":1
+			},{
+			"Merchants": ["on a ship at sea","nomads.jpg"],
+			"weight":1
+			},{
+			"Adopted": ["in the forest by an elven family, or in a cave by wolves, etc.", "elven.jpg"],
+			"weight":1
+			},{
+			"Extraplanar": ["in the plane of fire", ""],
+			"weight":1
+			},{
+			"Extraplanar": ["in the plane of water", ""],
+			"weight":1
+			},{
+			"Extraplanar": ["in the plane of air", ""],
+			"weight":1
+			},{
+			"Extraplanar": ["in the plane of earth", ""],
+			"weight":1
+			}
+	]
+}
